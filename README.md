@@ -15,5 +15,8 @@ These problems are especially helpful for:
 - Structure: Each problem is implemented in a separate Java file inside the `/src` directory
 
 > 📌 Disclaimer: This repository is created for educational purposes and contains the solutions to problems inspired by the SDET-QA YouTube playlist. Full credit to SDET-QA for curating the problems.
+> 📌 Some of the solutions here inspired by the SDET-QA YouTube playlist and may closely resemble the solutions presented in the videos. I have written the code myself after understanding the concepts for my personal learning purposes given credit to the owner.
+Thank you!!!
 
+HAPPY CODING!
 
