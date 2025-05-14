@@ -5,7 +5,7 @@ public class ReadDataFromTextFile {
     public static void main(String[] args) throws IOException {
         //Approach 1-Using FileReader and BufferedReader
 //
-//        FileReader fr=new FileReader("C:\\Users\\Gayatri Satpute\\test.txt")  ;     //always add filename too
+//        FileReader fr=new FileReader("C:\\Users\\your_computer_name\\test.txt")  ;     //always add filename too
 //        BufferedReader br=new BufferedReader(fr);                         //BufferedReader reads a big chunk of data at
 //                                                                                //once and stores it in memory.
 //
